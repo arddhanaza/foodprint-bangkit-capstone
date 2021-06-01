@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: #202123;
+  color: #f1f1f1;
+}
+body h1 {
+  font-family: Montserrat;
+}
+body h1 span {
+  color: #4caf50;
+}
+
+/*# sourceMappingURL=style.css.map */

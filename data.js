@@ -23,14 +23,14 @@ function get_makanan(result) {
     return labels[result];
 }
 function get_bahan_dasar(result) {
-    var component = ['ayam','ayam','sapi','ayam','sapi','ayam','ayam','sapi'];
+    var component = ['Ayam','Ayam','Sapi','Ayam','Sapi','Ayam','Ayam','Sapi'];
     return component[result];
 }
 
 function get_score(result) {
     var score =  {
-        ayam : 4.56,
-        sapi : 32.5
+        Ayam : 4.56,
+        Sapi : 32.5
     };
     return score[result];
 }
