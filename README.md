@@ -3,9 +3,9 @@
 ## Hi-fi Prototype
 [Protoype](https://www.figma.com/proto/LoHe8j4BOjVzubB6A1779I/foodprint?node-id=1%3A4&scaling=scale-down&page-id=0%3A1)
 ## Documentation
-## Dataset
+## Public Dataset
 [Dataset](https://drive.google.com/drive/folders/1wVFl2uPQb0N4yFcqPCuhkpZJZsXsaD6c?usp=sharing)
-## Screensoot
+## Screenshot
 * Web Deploy
 ![Web Deploy](https://drive.google.com/uc?id=1_pNvIExjoJESQIc_FBEaoOK7ae_qu5Co "Web Deploy")
 * Android Apps
