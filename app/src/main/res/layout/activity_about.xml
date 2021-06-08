@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/baca"
+        android:layout_marginBottom="30dp"
+        android:fitsSystemWindows="true">
+
+        <ImageButton
+            android:id="@+id/imgBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:background="?android:selectableItemBackground"
+            android:paddingTop="10dp"
+
+            android:src="@drawable/arrow" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/appbar">
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:id="@+id/gambar_logo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingBottom="20dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/carbon"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/text_judul"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="10dp"
+                android:layout_marginBottom="20dp"
+                app:layout_constraintTop_toBottomOf="@id/gambar_logo" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/welcomet"
+                    android:gravity="center"
+                    android:textSize="23dp"/>
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:id="@+id/des1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="5dp"
+                android:padding="10dp"
+                app:layout_constraintTop_toBottomOf="@id/text_judul">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="7dp"
+                    android:layout_gravity="center"
+                    android:text="@string/des"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/des2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="5dp"
+                android:padding="10dp"
+                app:layout_constraintTop_toBottomOf="@id/des1">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="7dp"
+                    android:layout_gravity="center"
+                    android:text="@string/des1"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/des3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="5dp"
+                android:padding="10dp"
+                app:layout_constraintTop_toBottomOf="@id/des2">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="7dp"
+                    android:layout_gravity="center"
+                    android:text="@string/des2"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/des4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="5dp"
+                android:padding="10dp"
+                app:layout_constraintTop_toBottomOf="@id/des3">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="7dp"
+                    android:layout_gravity="center"
+                    android:text="@string/des3"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/des5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="5dp"
+                android:padding="10dp"
+                app:layout_constraintTop_toBottomOf="@id/des4">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="7dp"
+                    android:layout_gravity="center"
+                    android:text="@string/des4"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/des6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="5dp"
+                android:padding="10dp"
+                app:layout_constraintTop_toBottomOf="@id/des5">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="15dp"
+                    android:layout_marginLeft="7dp"
+                    android:layout_gravity="center"
+                    android:text="@string/des5"/>
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</RelativeLayout>

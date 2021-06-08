@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.foodprintapps">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_carbon_round"
+        android:label="Food Print"
+        android:roundIcon="@mipmap/ic_carbon_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FoodPrintApps">
+        <activity android:name=".UploadActivity"></activity>
+        <activity android:name=".onBoarding.OnBoardingActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".AboutActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

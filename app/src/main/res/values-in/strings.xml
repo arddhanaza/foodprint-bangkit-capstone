@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FoodPrintApps</string>
+    <string name="judul">Food Print</string>
+    <string name="team">Copyright &#169; SedikitLagiTeam</string>
+    <string name="Login">Login dengan Google</string>
+    <string name="welcome">Welcome Back,</string>
+    <string name="choose">Pilih Gambar</string>
+    <string name="hint">Masukkan Hasil Carbon anda</string>
+    <string name="next">Selanjutnya</string>
+    <string name="apa">Tambah Gambar</string>
+    <string name="enter">Enter File Name</string>
+    <string name="leaveamessage">Masukkan Hasil Carbon anda</string>
+    <string name="History">Riwayat</string>
+    <string name="carbon">Daily Carbon Foodprint</string>
+    <string name="total">Total Carbon Foodprint</string>
+    <string name="history">Riwayat</string>
+    <string name="welcomet">Selamat datang di Aplikasi FoodPrints</string>
+    <string name="des">Tata cara penggunaan aplikasi :</string>
+    <string name="des1">1. Anda diharuskan untuk login terlebih dahulu menggunakan alamat email.</string>
+    <string name="des2">2. Anda dapat mengunggah gambar makanan Anda untuk dapat mendeteksi karbon dari makanan tersebut.</string>
+    <string name="des3">3. Ketika Anda belum mengunggah gambar Anda, tetapi Anda telah menekan tombol klasifikasi, akan terjadi kesalahan.</string>
+    <string name="des4">4. Hindari menekan tombol klasifikasi, sebelum Anda mengupload gambar makanan Anda terlebih dahulu.</string>
+    <string name="des5">5. Di halaman utama Anda dapat melihat riwayat orang yang telah mengunggah gambar karbon, dan mengetahui berapa banyak karbon yang dihasilkan.</string>
+    <string name="clil">Klik di atas untuk Memilih Gambar</string>
+    <string name="select">Silakan Pilih Gambar atau Tambahkan Nama Gambar</string>
+    <string name="success">Gambar Berhasil Diunggah</string>
+    <string name="upload">Unggah</string>
+    <string name="classify">Klasifikasikan</string>
+
+</resources>

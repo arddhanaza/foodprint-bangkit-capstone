@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FoodPrintApps</string>
+    <string name="judul">Food Print</string>
+    <string name="team">Copyright &#169; SedikitLagiTeam</string>
+    <string name="Login">Login with Google</string>
+    <string name="welcome">Welcome Back,</string>
+    <string name="choose">Choose Image</string>
+    <string name="hint">Enter your Carbon resul</string>
+    <string name="next">Next</string>
+    <string name="apa">Add Images</string>
+    <string name="enter">Enter File Name</string>
+    <string name="leaveamessage">Enter your Carbon result</string>
+    <string name="History">History</string>
+    <string name="carbon">Daily Carbon Foodprint</string>
+    <string name="total">Total Carbon Foodprint</string>
+    <string name="history">History</string>
+    <string name="welcomet">Welcome to Application FoodPrints</string>
+    <string name="des">Procedure for using the application :</string>
+    <string name="des1">1. You are required to login first using an email address.</string>
+    <string name="des2">2. You can upload your food image to be able to detect the carbon of the food.</string>
+    <string name="des3">3. When you have not uploaded your image, but you have pressed the classify button, an error will occur.</string>
+    <string name="des4">4. Avoid pressing the classify button, before you upload your food image first.</string>
+    <string name="des5">5. On the main page you can see the history of people who have uploaded a carbon image, and find out how much carbon was produced.</string>
+    <string name="clil">Click above to Select Image</string>
+    <string name="select">Please Select Image or Add Image Name</string>
+    <string name="success">Image Uploaded Successfully</string>
+    <string name="upload">Upload</string>
+    <string name="classify">Classify</string>
+
+</resources>
