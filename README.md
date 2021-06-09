@@ -18,6 +18,12 @@ As a human being, obviously we need food to survive. But how many realize that o
 ## Public Dataset
 [Dataset](https://drive.google.com/drive/folders/1kjfC8MASUa1OQMWiDm93OjKmaMTWCA4V?usp=sharing)
 
+## Source Code
+For Machine Learning Notebook, Android, and Web Deploy can be accesed on the :
+[machine_learning](https://github.com/arddhanaza/foodprint-bangkit-capstone/tree/machine_learning)
+[android_code](https://github.com/arddhanaza/foodprint-bangkit-capstone/tree/android-code), and
+[web_model_deploy](https://github.com/arddhanaza/foodprint-bangkit-capstone/tree/web_model_deploy) branch.
+
 ## Screenshot
 * Web Deploy
 ![Web Deploy](https://drive.google.com/uc?id=1_pNvIExjoJESQIc_FBEaoOK7ae_qu5Co "Web Deploy")
