@@ -29,8 +29,8 @@ function get_bahan_dasar(result) {
 
 function get_score(result) {
     var score =  {
-        Ayam : 4.56,
-        Sapi : 32.5
+        Ayam : 0.41,
+        Sapi : 2.873
     };
     return score[result];
 }
