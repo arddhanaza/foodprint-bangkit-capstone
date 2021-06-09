@@ -1,8 +1,8 @@
-AYAM BAKAR ~4,56kg/porsi
-AYAM KRISPI ~4,56kg/porsi
-BAKSO ~32,5kg/porsi
-MI AYAM ~4,56kg/porsi
-RENDANG DAGING ~32,5kg/porsi
-SATE ~4,56kg/porsi
-SOTO AYAM ~4,56kg/porsi
-SOTO DAGING ~4,56kg/porsi
+AYAM BAKAR ~0,41 Kg Co2/portion
+AYAM KRISPI ~0,41 Kg Co2/portion
+BAKSO ~2.873 Kg Co2/portion
+MI AYAM ~0,41 Kg Co2/portion
+RENDANG DAGING ~2.873 Kg Co2/portion
+SATE ~0,41 Kg Co2/portion
+SOTO AYAM ~0,41 Kg Co2/portion
+SOTO DAGING ~2.873 Kg Co2/portion

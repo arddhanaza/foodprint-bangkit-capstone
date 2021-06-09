@@ -26,5 +26,6 @@
     <string name="success">Image Uploaded Successfully</string>
     <string name="upload">Upload</string>
     <string name="classify">Classify</string>
+    <string name="desc11"> Avoid pressing the classify button, before you upload your food image first</string>
 
 </resources>

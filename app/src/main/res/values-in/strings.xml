@@ -27,5 +27,6 @@
     <string name="success">Gambar Berhasil Diunggah</string>
     <string name="upload">Unggah</string>
     <string name="classify">Klasifikasikan</string>
+    <string name="desc11">Hindari menekan tombol klasifikasi, sebelum Anda mengupload gambar makanan Anda terlebih dahulu</string>
 
 </resources>
